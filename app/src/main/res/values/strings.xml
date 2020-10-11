@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">projet</string>
+    <string name="btncnx">connexion</string>
+    <string name="btncreercompte">creer un compte</string>
+    <string name="titre1">connectez-vous ou creez un compte</string>
+    <string name="accueilbtnaddentree">ajouter une entree</string>
+    <string name="accueilbtnlistentrees">liste des entrees</string>
+    <string name="accueilwelcome">Bienvenue</string>
+    <string name="btnadd">Ajouter</string>
+    <string name="btnupdate">Modifier</string>
+    <string name="addentreepagetitre">Ajouter une entree</string>
+    <string name="updateentreepagetitre">mettre à jour entree</string>
+    <string name="registerpagetitre">Nouveau compte</string>
+    <string name="inputlibellehint">libelle</string>
+    <string name="inputdescriptionhint">description</string>
+    <string name="inputemplacementhint">emplacement</string>
+    <string name="inputdatehint">jour/mois/annee</string>
+    <string name="inputnomprenom">Nom et prenom</string>
+    <string name="inputemail">Email</string>
+    <string name="loginhint">nom utilisateur</string>
+    <string name="passhint">mot de passe</string>
+
+</resources>
